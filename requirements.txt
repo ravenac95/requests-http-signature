@@ -1,0 +1,4 @@
+requests==0.9.1
+paramiko==1.7.7.1
+nose
+ipython==0.12

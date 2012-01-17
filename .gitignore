@@ -1,0 +1,47 @@
+# Compiled files
+*.so
+*.o
+*.exe
+*.com
+*.class
+*.dll
+*.pyc
+
+# packages
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.tar
+*.rar
+*.zip
+
+# OS X ignores
+.DS_Store?
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# vim files
+.*.sw*
+
+# Other Python Specific
+*.egg-info
+*.egg
+*.EGG
+*.EGG-INFO
+bin
+build
+develop-eggs
+downloads
+eggs
+parts
+dist
+.installed.cfg
+
+# virtstrap
+quickactivate.sh
+vs.env
+.virtstrap.log
